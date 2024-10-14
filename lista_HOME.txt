@@ -1,0 +1,11 @@
+total 8
+drwxr-xr-x 1 vinicius vinicius  0 set  8 12:31 Área de trabalho
+drwxrwxr-x 1 vinicius vinicius  0 set 29 19:55 casa
+drwxrwxr-x 1 vinicius vinicius 50 out  2 21:04 CENA
+lrwxrwxrwx 1 vinicius vinicius 33 set  8 01:29 Desktop -> /mnt/sda1/Users/Vinícius/Desktop
+drwx------ 1 vinicius vinicius  0 set  8 14:49 Documentos
+lrwxrwxrwx 1 vinicius vinicius 46 set  8 01:25 DOCUMENTOS -> /mnt/sda1/Users/Vinícius/Documents/DOCUMENTOS
+drwxr-xr-x 1 vinicius vinicius  0 out 14 18:41 Downloads
+drwxrwxr-x 1 vinicius vinicius 32 set  8 14:49 Imagens
+drwxrwxr-x 1 vinicius vinicius 52 out 14 19:27 P1
+drwx------ 1 vinicius vinicius 82 set  9 08:58 snap
